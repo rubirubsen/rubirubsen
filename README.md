@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rubirubsen
 - 👀 I’m interested in Guitars, Coding and AI
-- <del> - 🌱 I’m currently learning Java ~~</del>
+- <del>🌱 I’m currently learning Java ~~</del> (deprecated)
+- 🐍 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Bots for Chat,Twitch, Spotify
 - 📫 How to reach me freenode/java > rubsen
 
